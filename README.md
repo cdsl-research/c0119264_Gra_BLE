@@ -4,8 +4,10 @@ zahyougosa.py
 
 ble_rcv_kiso.py
 - 受信デバイスでBLE電波を受信
+
 ble_snd.py
 - BLE電波を送信
+
 distance_faze.ipynb
 - 
 
