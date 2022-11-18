@@ -9,6 +9,7 @@ ble_snd.py
 - BLE電波を送信
 
 distance_faze.ipynb
-- 
+- 三辺測量で座標を計算，円が交わらないとき，重心で計算
 
 peak_dicition.ipynb
+- 算出した座標をmatplotlibで描写
